@@ -48,7 +48,14 @@ To add tracks to cmus, navigate to the browser view by pressing `5`, and go to t
 Alternatively, type `:` then the command `add "path/to/folder"`.
 
 # Playing music from library.
-When you're ready to listen to your favorite tracks, press 2 then navigate to the one you want to listen to, then press Enter, and cmus should start playing it for you! 
+When you're ready to listen to your favorite tracks press 2 then navigate to the one you want to listen to, then press Enter, and cmus should start playing it for you! 
+
+1. To pause/play a track press `c`.
+2. To stop media playback press `v`.
+3. To play the previously played track press `z`.
+4. To play the next track press `b`.
+5. To seek 5 seconds use the arrow keys.
+6. Volume can be increased/decreased by 10 by pressing `+`/`-`.
 
 Turns out CLI applications aren't as hard as you may've thought, right?
 
