@@ -43,5 +43,6 @@ To add music, navigate to the browser page by pressing `5`, and go to the direct
 Alternatively, type `:` then the command `add "path/to/folder"`.
 
 # Playing music from library.
-When you're ready to listen to your favorite tunes, press 2, navigate to the &larr;
- 
+When you're ready to listen to your favorite tunes, press 2 then navigate to the tune you want to listen to, then press Enter, and cmus should start playing it for you! 
+
+Turns out CLI applications aren't as hard as you may've thought, right?
