@@ -23,6 +23,14 @@ If not, make sure cmus is installed through the command ```cmus --version```.
 Congratulations, you've just installed cmus! Now it's time for an overview of how it works!
 
 # Overview
+## The album/artist page.
+This is where your albums and artists will be displayed.
+
+![image](https://user-images.githubusercontent.com/55633950/107118348-6d0f1000-6878-11eb-806f-d986d40572a5.png)
+
+## The library page.
+This is where all the music you add is displayed.
+
 
 
 # Adding music.
