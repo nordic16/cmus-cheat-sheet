@@ -41,4 +41,7 @@ To navigate between pages (such as playlist page, queue page, etc...), one can p
 To add music, navigate to the browser page by pressing `5`, and go to the directory where your media is stored. Then press `a` to add media to your library.
 
 Alternatively, type `:` then the command `add "path/to/folder"`.
+
+# Playing music from library.
+When you're ready to listen to your favorite tunes, press 2, navigate to the &larr;
  
