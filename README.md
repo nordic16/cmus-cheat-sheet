@@ -20,7 +20,7 @@ In order to open cmus, just type `cmus` on your favorite shell, and this window 
 
 If not, make sure cmus is installed through the command ```cmus --version```.
 
-Congratulations, you've just installed cmus! Now it's time to add our music!
+Congratulations, you've just installed cmus! Now it's time for an overview of how it works!
 
 # Overview
 
