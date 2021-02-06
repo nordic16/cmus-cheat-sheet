@@ -45,4 +45,6 @@ Alternatively, type `:` then the command `add "path/to/folder"`.
 # Playing music from library.
 When you're ready to listen to your favorite tunes, press 2 then navigate to the tune you want to listen to, then press Enter, and cmus should start playing it for you! 
 
+**Pro tip: If you want to play all your media, instead of 1 tune at a time, press shift-c.**
+
 Turns out CLI applications aren't as hard as you may've thought, right?
