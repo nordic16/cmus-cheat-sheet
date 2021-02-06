@@ -83,3 +83,12 @@ If you want to manually queue up tracks, navigate to the track you want to be qu
 Then, switch to the queue view by typing `4`.
 
 There, you can move up by pressing `p`, down by pressing `shift-p` and even remove tracks from the queue by pressing `shift-d`.
+
+
+
+
+**TODO**
+**1. Playlists** 
+**2. Filters**
+**3. Settings**
+**4. Other cool features**
