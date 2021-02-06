@@ -37,7 +37,7 @@ To navigate between pages (such as playlist page, queue page, etc...), one can p
 7 - Settings (you can bind actions, such as pausing/playing media to different keyboard shortcuts)
 ```
 
-# Adding music.
+# Adding media to your library.
 To add music, navigate to the browser page by pressing `5`, and go to the directory where your media is stored. Then press `a` to add media to your library.
 
 Alternatively, type `:` then the command `add "path/to/folder"`.
