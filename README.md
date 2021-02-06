@@ -40,8 +40,12 @@ This is where (of course) the playlists you add are displayed. Press `3` to disp
 
 ## The queue page.
 In here, you'll be able to manipulate the queue. Press `4` to display the page.
-
 ![image](https://user-images.githubusercontent.com/55633950/107118545-9a0ff280-6879-11eb-832f-faa31f262bb0.png)
+
+## Browser page.
+We can use this page to add music to cmus. To display it, press `5`.
+
+
 
 # Adding music.
 When you open cmus, the album/artist view.
