@@ -60,17 +60,26 @@ When you're ready to listen to your favorite tracks press 2 then navigate to the
 Turns out CLI applications aren't as hard as you may've thought, right?
 
 # Managing the queue.
+### Automatically
 You probably noticed that cmus just stops playing media after being finished with the one you previously played.
 
 In order to prevent that from happening, cmus offers a set of features to manage the queue:
 
 ```
-shift-C: plays all media in your library (MUST BE ENABLED FOR FLUSHING AND REPEAT TO WORK).
-s: shuffles your library, playing a randomly selected track.
-r: keeps playing media in your library even after reaching its end.
-f: in case of a track change, cmus will select the currently playing track.
+shift-C (continue): plays all media in your library (MUST BE ENABLED FOR FLUSHING AND REPEAT TO WORK).
+s (shuffle): shuffles your library, playing a randomly selected track.
+r (repeat): keeps playing media in your library even after reaching its end.
+f (follow): in case of a track change, cmus will select the currently playing track.
 ``` 
+As we can see in the following image, I enabled `continue` (C), `shuffle` (S) and `repeat` (R).
 
+![image](https://user-images.githubusercontent.com/55633950/107123837-cfc3d400-6897-11eb-91d8-e411a0133629.png)
+
+### Manually
 
 If you want to manually queue up tracks, navigate to the track you want to be queued up, then press `e`. 
 <br>The queue is **FIFO**, meaning that the last queued up track will be the last one to be played.
+
+Then, switch to the queue view by typing `4`.
+
+There, you can move up by pressing `p`, down by pressing `shift-p` and even remove tracks from the queue by pressing `shift-d`.
