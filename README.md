@@ -24,13 +24,14 @@ Congratulations, you've just installed cmus! Now it's time for an overview of ho
 
 # Overview
 ## The album/artist page.
-This is where your albums and artists will be displayed.
+This is where your albums and artists will be displayed. Press `1` to display it.
 
 ![image](https://user-images.githubusercontent.com/55633950/107118348-6d0f1000-6878-11eb-806f-d986d40572a5.png)
 
 ## The library page.
-This is where all the music you add is displayed.
+This is where all the music you add is displayed. Press `2` to display it.
 
+![image](https://user-images.githubusercontent.com/55633950/107118412-c8410280-6878-11eb-84de-72bbf02724e5.png)
 
 
 # Adding music.
