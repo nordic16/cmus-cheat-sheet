@@ -55,6 +55,7 @@ When you're ready to listen to your favorite tracks press 2 then navigate to the
 3. To play the previously played track press `z`.
 4. To play the next track press `b`.
 5. To seek 5 seconds use the arrow keys.
+6. To seek 1 minute, press `.`/`,`.
 6. Volume can be increased/decreased by 10 by pressing `+`/`-`.
 
 Turns out CLI applications aren't as hard as you may've thought, right?
