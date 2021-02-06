@@ -88,7 +88,7 @@ There, you can move up by pressing `p`, down by pressing `shift-p` and even remo
 
 
 **TODO**
-**1. Playlists** 
-**2. Filters**
-**3. Settings**
-**4. Other cool features**
+1. Playlists 
+2. Filters
+3. Settings
+4. Other cool features
