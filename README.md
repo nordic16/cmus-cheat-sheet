@@ -23,29 +23,22 @@ If not, make sure cmus is installed through the command ```cmus --version```.
 Congratulations, you've just installed cmus! Now it's time for an overview of how it works!
 
 # Overview
-## The album/artist page.
-This is where your albums and artists will be displayed. Press `1` to display the page.
+cmus has several features, such as music filtering, playlists and even plugins!
 
-![image](https://user-images.githubusercontent.com/55633950/107118348-6d0f1000-6878-11eb-806f-d986d40572a5.png)
+To navigate between pages (such as playlist page, queue page, etc...), one can press a numeric key ranging from `1-6`.
 
-## The library page.
-This is where all the music you add is displayed. Press `2` to display the page.
-
-![image](https://user-images.githubusercontent.com/55633950/107118412-c8410280-6878-11eb-84de-72bbf02724e5.png)
-
-## The playlists page.
-This is where (of course) the playlists you add are displayed. Press `3` to display the page.
-
-![image](https://user-images.githubusercontent.com/55633950/107118482-35ed2e80-6879-11eb-8e22-66325336dedf.png)
-
-## The queue page.
-In here, you'll be able to manipulate the queue. Press `4` to display the page.
-![image](https://user-images.githubusercontent.com/55633950/107118545-9a0ff280-6879-11eb-832f-faa31f262bb0.png)
-
-## Browser page.
-We can use this page to add music to cmus. To display it, press `5`.
-
-
+```
+1 - Albums/Artists (media is sorted according to the album/artist they belong to)
+2 - Media Library (all media)
+3 - Playlists (self-explanatory)
+4 - Queue (where you can manage the queue)
+5 - Browser (the place where you add your media to cmus).
+6 - Library Filters (filter media in your library according to your preferences)
+7 - Settings (you can bind actions, such as pausing/playing media to different keyboard shortcuts)
+```
 
 # Adding music.
-When you open cmus, the album/artist view.
+To add music, navigate to the browser page by pressing `5`, and go to the directory where your media is stored, and press `a` to add each file to your library.
+
+Alternatively, type `:` then the command `add "path/to/folder"`.
+ 
