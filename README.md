@@ -24,15 +24,22 @@ Congratulations, you've just installed cmus! Now it's time for an overview of ho
 
 # Overview
 ## The album/artist page.
-This is where your albums and artists will be displayed. Press `1` to display it.
+This is where your albums and artists will be displayed. Press `1` to display the page.
 
 ![image](https://user-images.githubusercontent.com/55633950/107118348-6d0f1000-6878-11eb-806f-d986d40572a5.png)
 
 ## The library page.
-This is where all the music you add is displayed. Press `2` to display it.
+This is where all the music you add is displayed. Press `2` to display the page.
 
 ![image](https://user-images.githubusercontent.com/55633950/107118412-c8410280-6878-11eb-84de-72bbf02724e5.png)
 
+## The playlists page.
+This is where (of course) the playlists you add are displayed. Press `3` to display the page.
+
+![image](https://user-images.githubusercontent.com/55633950/107118482-35ed2e80-6879-11eb-8e22-66325336dedf.png)
+
+## The queue page.
+In here, you'll be able to manipulate the queue. Press `4` to display the page.
 
 # Adding music.
 When you open cmus, the album/artist view.
