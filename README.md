@@ -1,5 +1,10 @@
 # cmus-cheat-sheet
+A simple cmus cheat sheet made by Nørdic, a fellow Linux fan.
+<br>Feel free to point out any sort of typos and grammatical errors, and if you have any suggestions, feel free to add them as well.
+
+# Introduction
 cmus (C* music player) is a simple and reliable CLI music player for UNIX systems.
+<br>It's my personal choice when it comes to choose a CLI music player due to its ease of use, reliability and the features if offers.
 
 # Installation.
 
@@ -25,11 +30,11 @@ Congratulations, you've just installed cmus! Now it's time for an overview of ho
 # Overview
 cmus has several features, such as music filtering, playlists and even plugins!
 
-To navigate between pages (such as playlist page, queue page, etc...), one can press a numeric key ranging from `1-6`.
+To navigate between pages (such as playlist page, queue page, etc...), one can press a numeric key ranging from `1-7`.
 
 ```
 1 - Albums/Artists (media is sorted according to the album/artist they belong to)
-2 - Media Library (all media)
+2 - Media Library (all media sorted by user criteria)
 3 - Playlists (self-explanatory)
 4 - Queue (where you can manage the queue)
 5 - Browser (the place where you add your media to cmus).
@@ -38,13 +43,25 @@ To navigate between pages (such as playlist page, queue page, etc...), one can p
 ```
 
 # Adding media to your library.
-To add music, navigate to the browser page by pressing `5`, and go to the directory where your media is stored. Then press `a` to add media to your library.
+To add tracks to cmus, navigate to the browser view by pressing `5`, and go to the directory where your media is stored. Then press `a` to add media to your library.
 
 Alternatively, type `:` then the command `add "path/to/folder"`.
 
 # Playing music from library.
-When you're ready to listen to your favorite tunes, press 2 then navigate to the tune you want to listen to, then press Enter, and cmus should start playing it for you! 
-
-**Pro tip: If you want to play all your media, instead of 1 tune at a time, press shift-c.**
+When you're ready to listen to your favorite tracks, press 2 then navigate to the one you want to listen to, then press Enter, and cmus should start playing it for you! 
 
 Turns out CLI applications aren't as hard as you may've thought, right?
+
+# Managing the queue.
+You probably noticed that cmus just stops playing media after being finished with the one you previously played.
+
+In order to prevent that from happening, cmus offers a set of features to manage the queue:
+
+```
+shift-C: plays all media in your library (MUST BE ENABLED FOR FLUSHING AND REPEAT TO WORK).
+s: shuffles your library, playing a randomly selected track.
+r: keeps playing media in your library even after reaching its end.
+``` 
+
+If you want to manually queue up tracks, navigate to the track you want to be queued up, then press `e`. 
+<br>The queue is **FIFO**, meaning that the last queued up track will be the last one to be played.
