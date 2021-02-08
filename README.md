@@ -2,7 +2,7 @@
 A simple cmus cheat sheet made by Nørdic, a fellow Linux fan.
 <br>Feel free to point out any sort of typos and grammatical errors, and if you have any suggestions, feel free to add them as well.
 
-# Introduction
+# Introduction.
 cmus (C* music player) is a simple and reliable CLI music player for UNIX systems.
 <br>It's my personal choice when it comes to choose a CLI music player due to its ease of use, reliability and the features if offers.
 
@@ -26,7 +26,7 @@ If not, make sure cmus is installed through the command ```cmus --version```.
 
 If so, congratulations! Feel free to jump to the next section.
 
-# Overview
+# Overview.
 cmus has several features, such as track filtering, playlists and even plugins!
 
 To navigate between pages (such as playlist page, queue page, etc...), one can press a numeric key ranging from `1-7`.
@@ -76,7 +76,6 @@ As we can see in the following image, I enabled `continue` (C), `shuffle` (S) an
 ![image](https://user-images.githubusercontent.com/55633950/107123837-cfc3d400-6897-11eb-91d8-e411a0133629.png)
 
 ### Manually
-
 If you want to manually queue up tracks, navigate to the track you want to be queued up, then press `e`. 
 <br>The queue is **FIFO**, meaning that the last queued up track will be the last one to be played.
 
@@ -92,13 +91,14 @@ So, now that you've added tracks to your library, it's time to organize them int
 <br>To alternate between track/playlist navigation, press `TAB`.
 <br>Now, switch back to the library view (press `2`), and press `y` to individually add tracks to the **currently selected playlist**, then go back to the playlist view, and open your new playlist.
 <br>The keyboard shortcuts on the playlist view are the same as the ones on the queue view:
+
 ```
 p to move the highlighted track down.
 shift-P to move the highlighted track up.
 shift-D to remove tracks from the playlist.
 ```
 
-<br>Cmus has support for multiple playlists, all you need to do is repeating the same steps for each playlist you want to create.
+<br>**Note:** Cmus has support for multiple playlists, all you need to do is repeating the same steps for each new playlist.
 
 **TODO**
 1. Playlists // DONE
