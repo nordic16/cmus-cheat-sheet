@@ -98,6 +98,7 @@ shift-P to move the highlighted track up.
 shift-D to remove tracks from the playlist.
 ```
 
+When you're ready to play an entire playlist, make sure you have Continue enabled (press `shift-C`) and play a random track within the playlist.
 <br>**Note:** Cmus has support for multiple playlists, all you need to do is repeating the same steps for each new playlist.
 
 **TODO**
