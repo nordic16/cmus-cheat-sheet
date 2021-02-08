@@ -90,14 +90,19 @@ So, now that you've added tracks to your library, it's time to organize them int
 Start by switching to the playlist view (press `3`), and type `:`,  followed by the command `pl-create [NAME]`.
 <br>Cmus creates 1 playlist by default (it's ironic because the playlist itself is called "default").
 <br>To alternate between track/playlist navigation, press `TAB`.
-
 <br>After creating it, press space. You should see an `*` on the left: that indicates the **currently selected playlist**.
 <br>Now, switch back to the library view (press `2`), and press `y` to individually add tracks to the **currently selected playlist**, then go back to the playlist view, and open your new playlist.
+<br>The keyboard shortcuts on the playlist view are the same as the ones on the queue view:
+```
+p to move the highlighted track down.
+shift-P to move the highlighted track up.
+shift-D to remove tracks from the playlist.
+```
 
 <br>Cmus has support for multiple playlists, all you need to do is repeating the same steps for each playlist you want to create.
 
 **TODO**
-1. Playlists 
+1. Playlists // DONE
 2. Filters
 3. Settings
 4. Other cool features
