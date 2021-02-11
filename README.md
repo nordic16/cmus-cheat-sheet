@@ -4,7 +4,7 @@ A simple cmus cheat sheet made by Nørdic, a fellow Linux fan.
 
 # Introduction.
 cmus (C* music player) is a simple and reliable CLI music player for UNIX systems.
-<br>It's my personal choice when it comes to choose a CLI music player due to its ease of use, reliability and the features if offers.
+<br>It's my personal choice when it comes to choosing a CLI music player due to its ease of use, reliability and the features if offers.
 
 # Installation.
 This step depends on your package manager (pacman, apt, rpm, etc.).
@@ -57,7 +57,7 @@ When you're ready to listen to your favorite tracks press 2 then navigate to the
 6. To seek 1 minute, press `.`/`,`.
 6. Volume can be increased/decreased by 10 by pressing `+`/`-`.
 
-Turns out CLI applications aren't as hard as you may've thought, right?
+Turns out CLI applications aren't as hard as you may have thought, right?
 
 # Managing the queue.
 ### Automatically
@@ -99,7 +99,7 @@ shift-D to remove tracks from the playlist.
 ```
 
 When you're ready to play an entire playlist, make sure you have Continue enabled (press `shift-C`) and play a random track within the playlist.
-<br>**Note:** Cmus has support for multiple playlists, all you need to do is repeating the same steps for each new playlist.
+<br>**Note:** Cmus has support for multiple playlists, all you need to do is repeat the same steps for each new playlist.
 
 **TODO**
 1. Playlists // DONE
