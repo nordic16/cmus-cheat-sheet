@@ -76,7 +76,8 @@ As we can see in the following image, I enabled `continue` (C), `shuffle` (S) an
 ![image](https://user-images.githubusercontent.com/55633950/107123837-cfc3d400-6897-11eb-91d8-e411a0133629.png)
 
 ### Manually
-If you want to manually queue up tracks, navigate to the track you want to be queued up, then press `e`. 
+If you want to manually queue up tracks, navigate to the track you want to be queued up, then press `e` to append, and `shift-e` to prepend, the selected track to the queue.
+
 <br>The queue is **FIFO**, meaning that the last queued up track will be the last one to be played.
 
 Then, switch to the queue view by typing `4`.
