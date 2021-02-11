@@ -2,10 +2,9 @@
 
 # Introduction.
 When I started using Linux, I immediatly asked myself what music player I wanted to use to satisfy my need for music (Spotify didn't count, as I didn't want to keep paying for it).
-<br>A quick research pointed me towards a great music player called **cmus**, available for UNIX systems.
-<br>After using it for a while, I decided to write a cheat sheet that covers the installation, configuration and usage processes.
+<br>A quick research pointed me towards a great music player called **cmus** and, after using it for a while, I decided to write a cheat sheet on it that covers the installation, configuration and usage processes.
 
-<br>It's my personal choice when it comes to choosing a music player for Linux due to its ease of use, reliability and the features if offers.
+It's my personal choice when it comes to choosing a music player for Linux due to its ease of use, reliability and the features if offers.
 
 # Installation.
 This step depends on your package manager (pacman, apt, rpm, etc.).
