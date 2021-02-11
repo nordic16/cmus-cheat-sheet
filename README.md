@@ -41,7 +41,7 @@ cmus has several features, such as track filtering, playlists and even plugins!
 
 
 # Adding media to your library.
-To add tracks to cmus, navigate to the browser view by pressing `5`, and go to the directory where you stored your tracks stop. Then press `a` to individually add each track to the playlist. 
+In order to add tracks to your library, navigate to the browser view by pressing `5`, and go to the directory where you stored your tracks stop. Then press `a` to individually add each track to the playlist. 
 
 Alternatively, type `:` then the command `add "path/to/folder"`.
 
@@ -77,7 +77,7 @@ As we can see in the following image, I enabled `continue` (C), `shuffle` (S) an
 
 ### Manually
 If you want to manually queue up tracks, navigate to the track you want to be queued up, then press `e` to append, and `shift-e` to prepend, that track to the queue.
-<br>The queue is **FIFO** ([first in first out](https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics))), meaning that unless you prepend it, the last queued track will be the last one to be played.
+<br>The queue is **FIFO** ([first in, first out](https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics))), meaning that unless you prepend it, the last queued track will be the last one to be played.
 
 In the queue view, you can change the order the highlighted track (use the arrow keys to move up/down): up by pressing `p`, down by pressing `shift-p`.
 
@@ -90,8 +90,7 @@ So, now that you've added tracks to your library, it's time to organize them int
 
 <br>To alternate between track/playlist navigation, press `TAB`.
 <br>Now, switch back to the library view (press `2`), and press `y` to individually add tracks to the **currently selected playlist**, then go back to the playlist view, and open your new playlist.
-<br>The keyboard shortcuts on the playlist view are the same as the ones on the queue view:
-
+<br>The keyboard shortcuts in the playlist view are the same as in the queue view:
 
 - p to move the highlighted track down.
 - shift-P to move the highlighted track up.
