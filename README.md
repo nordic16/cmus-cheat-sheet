@@ -1,8 +1,12 @@
-# cmus-cheat-sheet
-A simple cmus cheat sheet made by Nørdic, a fellow Linux fan.
-<br>Feel free to point out any sort of typos and/or grammatical errors, and if you have any suggestions, feel free to add them as well.
+*Feel free to point out any sort of typos and/or grammatical errors, and if you have any suggestions, feel free to add them as well.*
 
 # Introduction.
+When I started using Linux, I immediatly asked myself what music player I wanted to use to satisfy my need for music (Spotify didn't count, as I didn't want to keep paying for it).
+<br>A quick research pointed me towards a great music player called **cmus**, available for UNIX systems.
+
+<br>After using it for a while, I decided to write a cheat sheet that covers the installation, configuration and usage processes.
+
+
 cmus (C* music player) is a simple and reliable CLI music player for UNIX systems.
 <br>It's my personal choice when it comes to choosing a CLI music player due to its ease of use, reliability and the features if offers.
 
@@ -28,8 +32,8 @@ If so, congratulations! Feel free to jump to the next section.
 
 # Overview.
 cmus has several features, such as track filtering, playlists and even plugins!
-
-To navigate between pages (such as playlist page, queue page, etc...), one can press a numeric key ranging from `1-7`.
+<br>cmus is split into several views, such as the playlist view, settings view, and library view!
+<br>To switch between views, one can use the following keys:
 
 -  Albums/Artists (tracks are sorted according to the album/artist they belong to)
 -  Media Library (all tracks are sorted by user criteria)
@@ -37,7 +41,7 @@ To navigate between pages (such as playlist page, queue page, etc...), one can p
 -  Queue (where you can manage the queue)
 -  Browser (the place where you add your tracks to cmus).
 -  Library Filters (filter tracks in your library according to your preferences)
-- Settings (you can bind actions, such as pausing/playing tracjs to different keyboard shortcuts)
+-  Settings (you can bind actions to different keyboard shortcuts)
 
 
 # Adding media to your library.
