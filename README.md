@@ -92,9 +92,9 @@ So, now that you've added tracks to your library, it's time to organize them int
 <br>Now, switch back to the library view (press `2`), and press `y` to individually add tracks to the **currently selected playlist**, then go back to the playlist view, and open your new playlist.
 <br>The keyboard shortcuts in the playlist view are the same as in the queue view:
 
-- p to move the highlighted track down.
-- shift-P to move the highlighted track up.
-- shift-D to remove tracks from the playlist.
+- `p` to move the highlighted track down.
+- `shift-P` to move the highlighted track up.
+- `shift-D` to remove tracks from the playlist.
 
 
 When you're ready to play an entire playlist, make sure you have Continue enabled (press `shift-C`) and play a random track within the playlist.
