@@ -100,8 +100,10 @@ So, now that you've added tracks to your library, it's time to organize them int
 When you're ready to play an entire playlist, make sure you have Continue enabled (press `shift-C`) and play a random track within the playlist.
 <br>**Note:** Cmus has support for multiple playlists, all you need to do is repeat the same steps for each new playlist.
 
+# Settings
+
 **TODO**
 1. Playlists // DONE
 2. Filters
-3. Settings
+3. Settings // On it
 4. Other cool features
