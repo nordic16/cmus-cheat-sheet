@@ -103,7 +103,7 @@ When you're ready to play an entire playlist, make sure you have Continue enable
 Now that you're acquainted to cmus, it's time to tweak it a little bit.
 ### Changing our theme
 Open `cmus`, then type `:colorscheme` preceded by `Ctrl-d`. This will print a list of available themes (stored in `/usr/share/cmus`) you can choose!
-<br>At the time of writing, I'm using the one called `dracula`, which I'm very fond of. 
+<br>At the time of writing, I'm using `dracula`, which I'm very fond of. 
 
 **TODO**
 1. Playlists // DONE
