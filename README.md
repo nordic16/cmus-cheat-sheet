@@ -46,7 +46,8 @@ Alternatively, type `:` then the command `add "path/to/folder"`.
 
 # Playing music from library.
 When you're ready to listen to your favorite tracks press 2 then navigate to the one you want to listen to, then press Enter, and cmus should start playing it for you! 
-<br>Can't find a specific track? Type `/` followed by the track's name and it should highlight the first match, if there's any. You can navigate to the next match by pressing `n` and to the previous by pressing `N` (exactly like vim).
+
+Can't find a specific track? Type `/` followed by the track's name and it should highlight the first match, if there's any. You can navigate to the next match by pressing `n` and to the previous by pressing `N` (exactly like vim).
 
 - To pause/play a track press `c`.
 - To stop media playback press `v`.
