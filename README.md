@@ -1,4 +1,4 @@
-*Feel free to point out any sort of typos and/or grammatical errors, and if you have any suggestions, feel free to add them as well.*
+*Feel free to point out any sort of typos and/or grammatical errors, and if you have any suggestions, feel free to make a pull request.*
 
 # Introduction.
 When I started using Linux, I immediatly asked myself what music player I wanted to use to satisfy my need for music (Spotify didn't count, as I didn't want to keep paying for it).
@@ -19,10 +19,9 @@ sudo apt install cmus
 ```
 
 # Setup.
-In order to open cmus, just type `cmus` on your favorite shell, and this window should show up.
-![image](https://user-images.githubusercontent.com/55633950/107118230-8499c900-6877-11eb-8e0d-29af49c7d29a.png)
+In order to open cmus, just type `cmus` on your favorite shell, and it should open!
 
-If not, make sure cmus is installed through the command ```cmus --version```.
+If not, make sure cmus is installed through the command `cmus --version`.
 
 If so, congratulations! Feel free to jump to the next section.
 
@@ -47,6 +46,7 @@ Alternatively, type `:` then the command `add "path/to/folder"`.
 
 # Playing music from library.
 When you're ready to listen to your favorite tracks press 2 then navigate to the one you want to listen to, then press Enter, and cmus should start playing it for you! 
+<br>Can't find a specific track? Type `/` followed by the track's name and it should highlight the first match, if there's any. You can navigate to the next match by pressing `n` and to the previous by pressing `N` (exactly like vim).
 
 - To pause/play a track press `c`.
 - To stop media playback press `v`.
@@ -79,9 +79,7 @@ As we can see in the following image, I enabled `continue` (C), `shuffle` (S) an
 If you want to manually queue up tracks, navigate to the track you want to be queued up, then press `e` to append, and `shift-e` to prepend, that track to the queue.
 <br>The queue is **FIFO** ([first in, first out](https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics))), meaning that unless you prepend it, the last queued track will be the last one to be played.
 
-In the queue view, you can change the order the highlighted track (use the arrow keys to move up/down): up by pressing `p`, down by pressing `shift-p`.
-
-You can also remove the highlighted track by pressing `shift-d`.
+In the queue view, you can change the order the highlighted track (use the arrow keys to move up/down): up by pressing `p`, down by pressing `shift-p`. You can also remove the highlighted track by pressing `shift-d`.
 
 # Playlists.
 So, now that you've added tracks to your library, it's time to organize them into playlists.
