@@ -71,6 +71,7 @@ shift-C (continue): plays all media in your library (MUST BE ENABLED FOR FLUSHIN
 s (shuffle): shuffles your library, playing a randomly selected track.
 r (repeat): keeps playing media in your library even after reaching its end.
 f (follow): in case of a track change, cmus will select the currently playing track.
+^R (Ctrl-r): repeats the currently selected track.
 ``` 
 As we can see in the following image, I enabled `continue` (C), `shuffle` (S) and `repeat` (R).
 
@@ -104,6 +105,8 @@ Now that you're acquainted to cmus, it's time to tweak it a little bit.
 ### Changing our theme
 Open `cmus`, then type `:colorscheme` preceded by `Ctrl-d`. This will print a list of available themes (stored in `/usr/share/cmus`) you can choose!
 <br>At the time of writing, I'm using `dracula`, which I'm very fond of. 
+
+### Shortcuts.
 
 **TODO**
 1. Playlists // DONE
