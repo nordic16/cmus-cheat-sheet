@@ -72,7 +72,6 @@ In order to prevent that from happening, cmus offers a set of features to manage
 - r (repeat): keeps playing media in your library even after reaching its end.
 - f (follow): in case of a track change, cmus will select the currently playing track.
 - ^R (Ctrl-r): repeats the currently selected track.
-- v (stop): pauses the track, going back to its beginning.
 
 As we can see in the following image, I enabled `continue` (C), `shuffle` (S) and `repeat` (R).
 
