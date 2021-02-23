@@ -66,14 +66,14 @@ You probably noticed that cmus just stops playing media after being finished wit
 
 In order to prevent that from happening, cmus offers a set of features to manage the queue:
 
-```
-shift-C (continue): plays all media in your library (MUST BE ENABLED FOR FLUSHING AND REPEAT TO WORK).
-s (shuffle): shuffles your library, playing a randomly selected track.
-r (repeat): keeps playing media in your library even after reaching its end.
-f (follow): in case of a track change, cmus will select the currently playing track.
-^R (Ctrl-r): repeats the currently selected track.
-v: stops playing tracks.
-``` 
+
+- shift-C (continue): plays all media in your library (MUST BE ENABLED FOR FLUSHING AND REPEAT TO WORK).
+- s (shuffle): shuffles your library, playing a randomly selected track.
+- r (repeat): keeps playing media in your library even after reaching its end.
+- f (follow): in case of a track change, cmus will select the currently playing track.
+- ^R (Ctrl-r): repeats the currently selected track.
+- v (stop): pauses the track, going back to its beginning.
+
 As we can see in the following image, I enabled `continue` (C), `shuffle` (S) and `repeat` (R).
 
 ![image](https://user-images.githubusercontent.com/55633950/107123837-cfc3d400-6897-11eb-91d8-e411a0133629.png)
