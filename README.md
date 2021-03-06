@@ -102,8 +102,8 @@ When you're ready to play an entire playlist, make sure you have Continue enable
 
 # Settings
 Now that you're acquainted to cmus, it's time to tweak it a little bit.
-### Changing our theme
-Open `cmus`, then type `:colorscheme` preceded by `Ctrl-d`. This will print a list of available themes (stored in `/usr/share/cmus`) you can choose!
+### Changing color schemes
+Open `cmus`, then type `:colorscheme` preceded by `Ctrl-d`. This will print a list of available color schemes (stored in `/usr/share/cmus`) that you can use to choose one!
 <br>At the time of writing, I'm using `dracula`, which I'm very fond of. 
 
 ### Shortcuts.
@@ -112,5 +112,5 @@ Cmus has a lot of available customization when it comes to shortcuts. If you wan
 **TODO**
 1. Playlists // DONE
 2. Filters
-3. Settings // On it
+3. Settings // Done?
 4. Other cool features
