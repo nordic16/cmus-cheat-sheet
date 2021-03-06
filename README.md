@@ -57,6 +57,7 @@ Can't find a specific track? Type `/` followed by the track's name and it should
 - To seek 1 minute, press `.`/`,`.
 - Volume can be increased/decreased by 10 by pressing `+`/`-`.
 - To start playing the currently playing track from the start press `h`.
+- To display the remaining time in form of a formatted timestamp, press `t`. 
 
 **Pro tip:** to shuffle your tracks on the library view, type `:rand`!
 <br>Turns out CLI applications aren't as hard as you may have thought, right?
